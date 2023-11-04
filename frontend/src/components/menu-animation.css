@@ -1,0 +1,21 @@
+#menuIcon {
+    transition: all 300ms ease;
+}
+
+#menuIcon:hover {
+    transform: rotate(360deg);
+    cursor: pointer;
+}
+#menuItems {
+    transition: width 1000ms ease;
+    transform-origin: right;
+    overflow: hidden;
+}
+
+#menuItems.shrink {
+    width: 0px;
+}
+#menuItems.shrink a {
+    transition: color 400ms ease;
+    color: white;
+}
