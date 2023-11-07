@@ -96,7 +96,7 @@ export default function Home() {
                     </div>
                 </div>
             </div>
-            <div className='h-screen flex justify items-center justify-center relative bg-[#272727b2] bg-cover saturate-0 bg-[url("https://s3-alpha-sig.figma.com/img/973a/8785/2073e40d2909d3732a6d412c702e2920?Expires=1700438400&Signature=I0GXzzmPImr7PaKQTusRm3WHnPXNMCDA~0xiizFEqIubNXvT~93EBSlpfmFpNS-DibweobFjIZAIIChPt1mYIj6n9YISQNJIYs7Rj5KiMEaqDdLRnunuSoO0pBASF6wtz1VxLT4E~nZC3TrBp6cUwuOu-ox47On9PhlHvUP5f1HTnS6eMBhPPehHE2Q4KZN28VGyKlywXFm9ffn8lGwrIyeIAegvoo-WVRAAAXiBK471WEq4QuD8KVOnMPNiAzonNsasNhecffZrrQYamNIfanqTE60IRtv6o-zWhWq-gflCxm8l5-hrtspBMWXbcXxx8nguJt~5WEnGep2VVihmFg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4")] bg-[50%_50%]'>
+            <div className='h-screen flex justify items-center justify-center relative bg-[#272727] bg-cover saturate-0 bg-[url("https://s3-alpha-sig.figma.com/img/973a/8785/2073e40d2909d3732a6d412c702e2920?Expires=1700438400&Signature=I0GXzzmPImr7PaKQTusRm3WHnPXNMCDA~0xiizFEqIubNXvT~93EBSlpfmFpNS-DibweobFjIZAIIChPt1mYIj6n9YISQNJIYs7Rj5KiMEaqDdLRnunuSoO0pBASF6wtz1VxLT4E~nZC3TrBp6cUwuOu-ox47On9PhlHvUP5f1HTnS6eMBhPPehHE2Q4KZN28VGyKlywXFm9ffn8lGwrIyeIAegvoo-WVRAAAXiBK471WEq4QuD8KVOnMPNiAzonNsasNhecffZrrQYamNIfanqTE60IRtv6o-zWhWq-gflCxm8l5-hrtspBMWXbcXxx8nguJt~5WEnGep2VVihmFg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4")] bg-[50%_50%]'>
                 <p className='p-[100px] text-6xl text-center font-bold leading-tight text-white'>We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people</p>
             </div>
         </>
