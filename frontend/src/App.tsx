@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 import Home from './pages/Home';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
         <Navbar />
       </header>
       <Home />
+      <Footer />
     </div>
   );
 }

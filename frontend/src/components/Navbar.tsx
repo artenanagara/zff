@@ -38,7 +38,7 @@ function Menu() {
     ]
     return(
         <div className="relative w-3/4 md:w-1/3 flex justify-end">
-            <div id="menuItems" className="shrink block absolute t-0 r-0 -z-10 w-full flex gap-8 px-8 py-5 rounded-full shadow-xl">
+            <div id="menuItems" className="shrink absolute t-0 r-0 -z-10 w-full flex gap-8 px-8 py-5 rounded-full shadow-xl">
                 {menuItems.map((item, key) => {
                     return(
                         <a key={key} href={item.target}>{item.text}</a>
