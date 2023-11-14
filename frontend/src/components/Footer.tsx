@@ -1,3 +1,5 @@
+import About from "../pages/About"
+
 const menuItems = [
     {
         text: 'Home',
@@ -13,7 +15,7 @@ const menuItems = [
     },
     {
         text: 'About',
-        target: '#'
+        target: '../pages/About.tsx'
     },
 ]
 

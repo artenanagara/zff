@@ -2,6 +2,7 @@ import React from 'react'
 import './menu-animation.css'
 import {AiOutlineMenu} from 'react-icons/ai'
 import  {useState, useEffect} from 'react'
+import About from '../pages/About'
 
 function Menu() {
     const [isExpand, setIsExpand] = useState(false)
@@ -33,7 +34,7 @@ function Menu() {
         },
         {
             text: 'About',
-            target: '#'
+            target: './pages/About.tsx'
         },
     ]
     return(
